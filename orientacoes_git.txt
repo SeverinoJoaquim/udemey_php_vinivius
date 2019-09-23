@@ -1,0 +1,23 @@
+.LOG
+
+14:28 23/09/2019
+1º - Criar o git
+git init
+
+2º - Adicionar os arquivos ao git
+git add .
+
+3º - Criar o primeiro commite
+git commit -m "Texto explicativo
+ 
+3º Criar o repositório no Github
+Processo automático
+15:14 23/09/2019
+
+4º - Setar o Github no Git
+git remote add origin "Endereço completo do repositório no Github"
+
+5º - Subir os arquivos ao Github
+git push -u origin master
+
+
