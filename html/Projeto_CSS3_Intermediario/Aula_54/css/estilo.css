@@ -28,8 +28,18 @@ ul a{
 	background: #f7b600 url(../img/menu.png) no-repeat left bottom;
 }
 
-a:hover{
+a:hover, .selecionado a {
 	background-position: right bottom;
 	background-color: #f99200;
 	color: #fff;
+}
+
+#home #navegacao .home a,
+#sobre #navegacao .sobre a,
+#servicos #navegacao .servicos a,
+#noticias #navegacao .noticias a,
+#contato #navegacao .contato a {
+	background-position: right bottom;
+	background-color: #f99200;
+	color: #fff;	
 }
