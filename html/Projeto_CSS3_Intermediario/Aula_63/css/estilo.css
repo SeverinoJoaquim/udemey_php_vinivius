@@ -51,4 +51,5 @@ input.submit {
 	height: 45px;
 	width: 90%;
 
+	background: linear-gradient(to bottom, #faa600, #f68a00);
 }
