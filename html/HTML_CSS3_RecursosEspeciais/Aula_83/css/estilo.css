@@ -1,0 +1,68 @@
+#caixa {
+	width: 300px;
+	height: 300px;
+	background: #b9c941;
+	padding: 10px;
+	margin: 10px;
+	border-radius: 40px;
+}
+#caixa2 {
+	width: 350px;
+	height: 350px;
+	background: #b9c949;
+	padding: 10px;
+	margin: 10px;
+	border-radius: 10px 50px 80px 100px;
+}
+#caixa3 {
+	width: 350px;
+	height: 350px;
+	background: #c9c949;
+	padding: 10px;
+	margin: 10px;
+	border-radius: 20px 90px;
+}
+#caixa4 {
+	width: 400px;
+	height: 400px;
+	background: #c8c849;
+	padding: 10px;
+	margin: 10px;
+	-webkit-border-radius: 20px 90px;
+	-moz-border-radius: 20px 90px;
+	border-radius: 20px 90px;
+}
+
+#caixa5 {
+	width: 400px;
+	height: 400px;
+	background: #c8c849;
+	padding: 50px;
+	/*-webkit-border-radius: 20px 90px;
+	-moz-border-radius: 20px 90px;
+	border-radius: 20px 90px;*/
+}
+
+#caixa6 {
+	width: 400px;
+	height: 400px;
+	background: #c8c849;
+}
+
+#caixa7 {
+	width: 400px;
+	height: 400px;
+	background: #c8c849;
+	margin-top: 10px;
+	padding: 50px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	/*-webkit-border-radius: 20px 90px;
+	-moz-border-radius: 20px 90px;
+	border-radius: 20px 90px;*/
+}
+
+.arredondatamento{
+	border-radius: 150px;	
+}
