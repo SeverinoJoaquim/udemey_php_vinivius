@@ -1,0 +1,135 @@
+#caixa {
+	width: 400px;
+	height: 400px;
+	margin: 10px;
+	margin-bottom: 30px;
+	padding: 8px;
+	background: #009670;
+}
+#caixa h1 {
+	color: #fff;
+	text-shadow: 20px 20px red;
+}
+#caixa2 {
+	width: 400px;
+	height: 400px;
+	margin: 10px;
+	margin-bottom: 30px;
+	padding: 8px;
+	background: #009670;
+}
+#caixa2 h1 {
+	color: #fff;
+	text-shadow: -20px 0px red;
+}
+#caixa3 {
+	width: 400px;
+	height: 400px;
+	margin: 10px;
+	margin-bottom: 30px;
+	padding: 8px;
+	background: #009670;
+}
+#caixa3 h1 {
+	color: #fff;
+	text-shadow: 0px 30px red;
+}
+#caixa4 {
+	width: 400px;
+	height: 400px;
+	margin: 10px;
+	margin-bottom: 30px;
+	padding: 8px;
+	background: #009670;
+}
+#caixa4 h1 {
+	color: #fff;
+	text-shadow: 0px -30px red;
+}
+#caixa5 {
+	width: 400px;
+	height: 400px;
+	margin: 10px;
+	margin-bottom: 30px;
+	padding: 8px;
+	background: #009670;
+}
+#caixa5 h1 {
+	color: #fff;
+	text-shadow: 0px -30px #ccc;
+}
+#caixa6 {
+	width: 400px;
+	height: 400px;
+	margin: 10px;
+	margin-bottom: 30px;
+	padding: 8px;
+	background: #009670;
+}
+#caixa6 h1 {
+	color: #fff;
+	text-shadow: 20px 20px rgba(0,0,0,1);
+}
+#caixa7 {
+	width: 400px;
+	height: 400px;
+	margin: 10px;
+	margin-bottom: 30px;
+	padding: 8px;
+	background: #009670;
+}
+#caixa7 h1 {
+	color: #fff;
+	text-shadow: 20px 20px rgba(0,0,0,0.5);
+}
+#caixa8 {
+	width: 400px;
+	height: 400px;
+	margin: 10px;
+	margin-bottom: 30px;
+	padding: 8px;
+	background: #009670;
+}
+#caixa8 h1 {
+	color: #fff;
+	text-shadow: 20px 20px 5px rgba(0,0,0,0.6);
+}
+#caixa9 {
+	width: 400px;
+	height: 400px;
+	margin: 10px;
+	margin-bottom: 30px;
+	padding: 8px;
+	background: #009670;
+	box-shadow: 20px 20px black;
+}
+#caixa9 h1 {
+	color: #fff;
+	text-shadow: 20px 20px 5px rgba(0,0,0,0.6);
+}
+#caixa10 {
+	width: 400px;
+	height: 400px;
+	margin: 10px;
+	margin-bottom: 30px;
+	padding: 8px;
+	background: #009670;
+	box-shadow: 20px 20px 10px black;
+}
+#caixa10 h1 {
+	color: #fff;
+	text-shadow: 20px 20px 5px rgba(0,0,0,0.6);
+}
+#caixa11 {
+	width: 400px;
+	height: 400px;
+	margin: 10px;
+	margin-bottom: 30px;
+	padding: 8px;
+	background: #009670;
+	box-shadow: 20px 200px 20px 80px #999;
+}
+#caixa11 h1 {
+	color: #fff;
+	text-shadow: 20px 20px 5px rgba(0,0,0,0.6);
+}

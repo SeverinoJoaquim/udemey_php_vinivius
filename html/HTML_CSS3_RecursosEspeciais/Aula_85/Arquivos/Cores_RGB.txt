@@ -1,0 +1,8 @@
+.LOG
+10:04 13/10/2019
+Sombras
+1-Sombra em texto
+https://www.w3schools.com/cssref/css3_pr_text-shadow.asp
+2-Sombra em caixa
+https://www.w3schools.com/cssref/css3_pr_box-shadow.asp 
+
