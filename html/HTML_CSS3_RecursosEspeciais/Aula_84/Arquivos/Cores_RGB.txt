@@ -1,0 +1,6 @@
+.LOG
+Cores RGB
+1-Trasnparências
+https://www.w3schools.com/css/css3_colors.asp
+2-Degradês
+https://www.w3schools.com/css/css3_gradients.asp 
