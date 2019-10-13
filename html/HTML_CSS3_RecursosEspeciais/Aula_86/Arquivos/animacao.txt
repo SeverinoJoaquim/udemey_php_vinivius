@@ -1,0 +1,10 @@
+.LOG
+10:04 13/10/2019
+Animações
+1-Animações
+https://www.w3schools.com/css/css3_animations.asp
+2-Direções
+https://www.w3schools.com/cssref/css3_pr_animation-direction.asp 
+
+
+16:44 13/10/2019
