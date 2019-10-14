@@ -1,0 +1,10 @@
+.LOG
+Flexbox Itens
+1-Comptibilidade
+https://caniuse.com/#search=flexbox
+
+2-Auto prefixo
+https://autoprefixer.github.io/
+
+3-Compatibilicade IE
+https://github.com/jonathantneal/flexibility
