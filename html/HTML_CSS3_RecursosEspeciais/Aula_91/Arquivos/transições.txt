@@ -1,0 +1,4 @@
+.LOG
+Compatibilidade
+https://cdnjs.com/libraries/html5shiv
+21:47 13/10/2019
