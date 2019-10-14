@@ -1,0 +1,14 @@
+.LOG
+Flexbox
+1-Flex-direction
+https://www.w3schools.com/cssref/css3_pr_flex-direction.asp
+
+2-Flex-wrap
+https://www.w3schools.com/cssref/css3_pr_flex-wrap.asp
+
+3-Justify-content
+https://www.w3schools.com/cssref/css3_pr_justify-content.asp
+
+4-Align-items
+https://www.w3schools.com/cssref/css3_pr_align-items.asp
+00:23 14/10/2019
