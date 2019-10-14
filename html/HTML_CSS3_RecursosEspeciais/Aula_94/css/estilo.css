@@ -1,0 +1,197 @@
+#conteudo {
+	margin-top: 30px;
+	background: #8d9b7a;
+	height: 600px;
+	display: flex;
+}
+.item {
+	margin: 10px;
+	width: 100px;
+	height: 100px;
+	background: white;
+	border: 1px solid #56aabc;
+	flex-grow: 0;
+	flex-shrink: 1
+}
+
+#conteudo2 {
+	margin-top: 30px;
+	background: #8d9b7a;
+	height: 600px;
+	display: flex;
+}
+.item2 {
+	margin: 10px;
+	width: 200px;
+	height: 100px;
+	background: white;
+	border: 1px solid #56aabc;
+	flex-grow: 0;
+	flex-shrink: 1
+}
+.item_1{
+	flex-shrink: 1	
+}
+.item_2 {
+	flex-shrink: 2
+}
+.item_3 {
+	flex-shrink: 5
+}
+
+#conteudo3 {
+	margin-top: 30px;
+	background: #8d9b7a;
+	height: 600px;
+	display: flex;
+}
+.item3 {
+	margin: 10px;
+	width: 200px;
+	height: 100px;
+	background: white;
+	border: 1px solid #56aabc;
+	flex-grow: 0;
+	flex-shrink: 1
+	flex-basis: auto;
+}
+.item_13{
+		
+}
+.item_23 {
+	
+}
+.item_33 {
+	
+}
+
+#conteudo4 {
+	margin-top: 30px;
+	background: #8d9b7a;
+	height: 600px;
+	display: flex;
+}
+.item4 {
+	margin: 10px;
+	/*width: 200px;*/
+	height: 100px;
+	background: white;
+	border: 1px solid #56aabc;
+	flex-grow: 0;
+	flex-shrink: 1;
+	flex-basis: 200px;
+}
+.item_13{
+		
+}
+.item_23 {
+	
+}
+.item_33 {
+	
+}
+
+#conteudo5 {
+	margin-top: 30px;
+	background: #8d9b7a;
+	height: 600px;
+	display: flex;
+}
+.item5 {
+	margin: 10px;
+	/*width: 200px;*/
+	height: 100px;
+	background: white;
+	border: 1px solid #56aabc;
+	flex-grow: 0;
+	flex-shrink: 1;
+	flex-basis: 100px;
+}
+.item_13{
+		
+}
+.item_23 {
+	
+}
+.item_33 {
+	
+}
+
+#conteudo6 {
+	margin-top: 30px;
+	background: red;
+	height: 600px;
+	display: flex;
+}
+.item6 {
+	margin: 10px;
+	/*width: 200px;*/
+	height: 100px;
+	background: white;
+	border: 1px solid #56aabc;
+	flex-grow: 1;
+	flex-shrink: 1;
+	flex-basis: 100px;
+}
+.item_13{
+		
+}
+.item_23 {
+	
+}
+.item_33 {
+	
+}
+
+#conteudo7 {
+	margin-top: 30px;
+	background: red;
+	height: 600px;
+	display: flex;
+}
+.item7 {
+	margin: 10px;
+	/*width: 200px;*/
+	height: 100px;
+	background: white;
+	border: 1px solid #56aabc;
+	flex-grow: 0;
+	flex-shrink: 1;
+	flex-basis: 100px;
+}
+.item_13{
+		
+}
+.item_27 {
+	flex-grow: 2;
+}
+.item_33 {
+	
+}
+
+#conteudo8 {
+	margin-top: 30px;
+	background: blue;
+	height: 600px;
+	display: flex;
+}
+.item8 {
+	margin: 10px;
+	/*width: 200px;*/
+	height: 100px;
+	background: white;
+	border: 1px solid #56aabc;
+	flex-grow: 0;
+	flex-shrink: 1;
+	flex-basis: 100px;
+}
+.item_18{
+		
+}
+.item_28 {
+	flex-grow: 1;
+}
+.item_38 {
+	flex-grow: 2;	
+}
+
