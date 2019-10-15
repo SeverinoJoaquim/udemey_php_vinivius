@@ -1,0 +1,5 @@
+.LOG
+Links necessários
+1- https://necolas.github.io/normalize.css/
+2- https://github.com/aFarkas/html5shiv
+3- https://cdnjs.com/libraries/html5shiv
