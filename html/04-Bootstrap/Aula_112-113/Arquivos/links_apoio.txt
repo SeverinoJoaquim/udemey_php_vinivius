@@ -1,0 +1,5 @@
+.LOG
+Links de apoio à aula 112
+
+https://getbootstrap.com/docs/4.1/components/navs/
+https://getbootstrap.com/docs/4.1/components/navbar/
