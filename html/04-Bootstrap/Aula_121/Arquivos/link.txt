@@ -1,2 +1,3 @@
 .LOG
+Site para gerar imagem randônica - Apos refresh, há uma nova imagem.
 https://source.unsplash.com/
